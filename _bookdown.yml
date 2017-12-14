@@ -1,0 +1,7 @@
+book_filename: "teoria-indicadores"
+chapter_name: " "
+repo: https://github.com/mamaciasq/definiciones.git
+output_dir: docs
+rmd_files: ["index.Rmd", "01-intro.Rmd", "02-profesores.Rmd", "03-revision.Rmd", "04-escalas.Rmd", "05-indicadores.Rmd", "06-escritura.Rmd", "07-numeros.Rmd", "08-visualizacion.Rmd", "09-biblio-pendiente.Rmd", "10-references"]
+clean: [packages.bib, referencias.bib, bookdown.bbl]
+new_session: yes

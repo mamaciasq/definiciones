@@ -6,11 +6,11 @@ Los registros escritos que datan de la prehistoria constituyen una aproximación
 
 El rápido desarrollo del lenguaje significó que la escritura también avanzara en la medida en que las lenguas se expandían a lo largo y ancho del planeta. 
 
-![Familias de lenguas antiguas](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/196.jpg)
+![Familias de lenguas antiguas](196.jpg)
 
 En un principio no existían más que juglares, trovadores y escribientes encargados de difundir el conocimiento. Sin embargo, este sistema era poco efectivo puesto que el alcance era bastante limitado. Sólo hasta la aparición de la imprenta fue posible reproducir textos e imágenes sobre papel de forma mecánica. A pesar de que los romanos contaban con sellos que imprimían sobre arcilla hacia el 435 a de C. y los chinos tenían tipos móviles que imprimían sobre papel de arroz hacia el 1045, la imprenta moderna se atribuye al descubrimiento de la tipografía que hiciera Johannes Gutenberg en el año 1450 y su testimonio más insigne es la biblia de 42 líneas.
 
-![Biblia de 42 líneas de Gutenberg](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/Gutenberg.jpg)
+![Biblia de 42 líneas de Gutenberg](Gutenberg.jpg)
 
 En Colombia, esos desarrollos tecnológicos de la imprenta iniciados por el maguntino Gutenmberg llegaron después de la conquista, exactamente en la colonización y con su proceso más contundente que era la evangelización. Al catolicismo se le endilgó la transmisión del conocimiento al Nuevo Mundo y la herramienta más expansiva era la imprenta. El advenimiento de la imprenta en el continente supuso también que fuera posible compartir el conocimiento de nativos y criollos. Es así que, por ejemplo, la _Declaración de los Derechos del Hombre y del Ciudadano_ se imprimió en la Imprenta Patriótica de la Nación.
 

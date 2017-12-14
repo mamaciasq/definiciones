@@ -12,7 +12,7 @@ Al organizar esta historia, fue útil dividirla en épocas, cada una de las cual
 
 En el panorama más amplio -reconociendo la historia de la visualización de datos- resulta que muchos de los ítems de los hitos tienen una historia que contar: ¿Qué motivó este desarrollo? ¿Cuál fue el objetivo de la comunicación? ¿Cómo se relaciona con otros desarrollos? ¿Cuáles fueron los precursores? ¿Cómo se ha utilizado o reinventado esta idea hoy? Cada sección trata de ilustrar los temas generales con algunos ejemplos. En particular, esta cuenta intenta relatar algunas historias representativas de estos períodos, en lugar de tratar de ser exhaustivas.
 
-![Figura 1. Distribución del tiempo de eventos considerados hitos en la historia de la visualización de datos)](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Milestone.png)
+![Figura 1. Distribución del tiempo de eventos considerados hitos en la historia de la visualización de datos)](imagenes/Milestone.png)
 
 ## Principios del siglo 17: Primeros mapas y diagramas
 
@@ -20,7 +20,7 @@ Las primeras semillas de la visualización surgieron en los diagramas geométric
 
 Entre las representaciones gráficas más tempranas de la información cuantitativa se encuentra un gráfico anónimo de la serie temporal del siglo X de la posición cambiante de los siete cuerpos celestes más prominentes sobre el espacio y el tiempo (Figura 2), descrito por Funkhouser (1936) y reproducido en Tufte (1983, página 28). El eje vertical representa la inclinación de las órbitas planetarias, el eje horizontal muestra el tiempo, dividido en treinta intervalos. Es notable la variación sinusoidal, con periodos diferentes, como es el uso de una rejilla, lo que sugiere una noción implícita de un sistema de coordenadas, y algo parecido al papel cuadriculado, ideas que no estarían completamente desarrolladas hasta 1600-1700.
 
-![Figura 2. Movimientos planetarios mostrados como inclinaciones cíclicas a través del tiempo, por un astrónomo desconocido, apareciendo en un apéndice del siglo X a los comentarios de A. T. Macrobius sobre Cicerón en *In Somnium Scripionus*.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Funkhouser.png)
+![Figura 2. Movimientos planetarios mostrados como inclinaciones cíclicas a través del tiempo, por un astrónomo desconocido, apareciendo en un apéndice del siglo X a los comentarios de A. T. Macrobius sobre Cicerón en *In Somnium Scripionus*.](imagenes/Funkhouser.png)
 
 En el siglo XVI, las técnicas e instrumentos para la observación precisa y la medición de las cantidades físicas y la posición geográfica y celestial estaban bien desarrolladas (por ejemplo, un "cuadrante de la pared" construido por Tycho Brahe [1546-1601], cubriendo toda una pared en su observatorio). Particularmente importantes fueron el desarrollo de la triangulación y otros métodos para determinar con exactitud las localizaciones de mapas. Además, vemos ideas iniciales para capturar imágenes directamente (la cámara oscura, usada por Reginer Gemma-Frisius en 1545 para registrar un eclipse del sol), la grabación de funciones matemáticas en tablas (tablas trigonométricas de Georg Rheticus, 1550), y el primer atlas cartográfico moderno (*Teatrum Orbis Terrarum* de Abraham Ortelius, 1570). Estos primeros pasos comprenden los inicios de la visualización de los datos.
 
@@ -30,11 +30,11 @@ Entre los problemas más importantes del siglo XVII estaban los relacionados con
 
 A principios de este siglo, Christopher Scheiner (1630, grabaciones de 1611) introdujo una idea que Tufte (1983) llamaría más tarde el principio de "pequeños múltiplos" para mostrar las cambiantes configuraciones de las manchas solares a lo largo del tiempo (Figura 3). Las imágenes representan las grabaciones de manchas solares del 23 de octubre de 1611 hasta el 19 de diciembre de ese año. La clave grande en la parte superior izquierda identifica siete grupos de manchas solares por las letras A-F. Estos grupos se identifican de forma similar en las 37 imágenes más pequeñas, agrupadas de izquierda a derecha y de arriba a abajo.
 
-![Figura 3. Representación de Scheiner de 1626 de los cambios en las manchas solares con el tiempo.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Manchas.png)
+![Figura 3. Representación de Scheiner de 1626 de los cambios en las manchas solares con el tiempo.](imagenes/Manchas.png)
 
 Otro ejemplo notable (Figura 4) muestra un gráfico de 1644 de Michael Florent van Langren [1600-1675], un astrónomo flamenco de la corte de España, que se cree es la primera representación visual de datos estadísticos (Tufte, 1997, p. 15). En ese momento, la falta de un medio fiable para determinar la longitud en el mar dificultaba la navegación y la exploración. Este gráfico de línea unidimensional muestra las 12 estimaciones conocidas de la diferencia de longitud entre Toledo y Roma, y el nombre del astrónomo (Mercator, Tycho Brahe, Ptolomeo, etc.) que proporcionó cada observación.
 
-![Figura 4. Gráfico de 1644 de Langren de las determinaciones de la distancia, en longitud, de Toledo a Roma. La distancia correcta es 16º30'.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Unidimensional.png)
+![Figura 4. Gráfico de 1644 de Langren de las determinaciones de la distancia, en longitud, de Toledo a Roma. La distancia correcta es 16º30'.](imagenes/Unidimensional.png)
 
 ## 1700 - 1799: Nuevas formas gráficas
 
@@ -44,13 +44,13 @@ Los gráficos abstractos y los gráficos de las funciones se hicieron más difun
 
 Por ejemplo, el uso de isolines para mostrar contornos de igual valor en una cuadrícula de coordenadas (mapas y gráficos) fue desarrollado por Edmund Halley (1701). La Figura 5, que muestra líneas isogónicas de declinación magnética igual está entre los primeros ejemplos de cartografía temática, superponiendo datos en un mapa. Los mapas de contorno y los mapas topográficos fueron introducidos un poco más tarde por Phillippe Buache (1752) y Marcellin du Carla-Boniface (1782).
 
-![Figura 5. Una porción del *Nuevo y Correcto Mar que ilustra las variaciones de la brújula en el Océano Occidental y Austral* de Edmund Halley, 1701.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Mapa.png)
+![Figura 5. Una porción del *Nuevo y Correcto Mar que ilustra las variaciones de la brújula en el Océano Occidental y Austral* de Edmund Halley, 1701.](imagenes/Mapa.png)
 
 El uso de figuras geométricas (cuadrados o rectángulos) y cartogramas para comparar áreas o magnitudes demográficas por Charles de Fourcroy (1782) y August FW Crome (1785) proporcionó otra codificación visual novedosa para datos cuantitativos usando cuadrados superpuestos para comparar las áreas de Estados europeos.
 
 También cabe resaltar la contribución del francés Charles Minard (1781 - 1870) a quien se debe su notable contribución en el campo de las gráficas informativas en ingeniería civil y estadística. Una de sus representaciones es la que se muestra en la figura 6.
 
-![Figura 6. Gráfico que muestra el número de las fuerzas francesas en su marcha hacia Moscú y durante la retirada, por Charles Minard. También contiene información ambiental como la temperatura por fecha..](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Minard.png)
+![Figura 6. Gráfico que muestra el número de las fuerzas francesas en su marcha hacia Moscú y durante la retirada, por Charles Minard. También contiene información ambiental como la temperatura por fecha..](imagenes/Minard.png)
 
 ## 1800 - 1850: Albores de las gráficas modernas
 
@@ -60,13 +60,13 @@ En los gráficos estadísticos, se inventaron todas las formas modernas de visua
 
 En octubre de 1831, el primer caso de cólera asiático se produjo en Gran Bretaña, y más de 52.000 personas murieron en la epidemia que se produjo durante los siguientes 18 meses aproximadamente. Las epidemias subsiguientes de cólera en 1848-1849 y 1853-1854 produjeron peores muertes similares, pero la causa de la enfermedad fue desconocida hasta 1855 cuando el Dr. John Snow produjo su famoso mapa de puntos mostrando muertes debidas al cólera agrupado alrededor de la bomba de Broad Street en Londres. Este fue, de hecho, un descubrimiento gráfico, pero ocurrió al final del período, aproximadamente 1835-1855, lo que marca un punto culminante en la aplicación de la cartografía temática a los temas humanos (sociales, médicos, étnicos). El primer mapa conocido de enfermedad del cólera (Figura 7), debido al Dr. Robert Baker (1833), muestra los distritos de Leeds "afectados por el cólera" en el particularmente grave brote de 1832.
 
-![Figura 7. Una parte del mapa del cólera del Dr. Robert Baker de Leeds, 1833, que muestra los distritos afectados por el cólera.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Colera.png)
+![Figura 7. Una parte del mapa del cólera del Dr. Robert Baker de Leeds, 1833, que muestra los distritos afectados por el cólera.](imagenes/Colera.png)
 
 Aproximadamente al mismo tiempo, ~1830-1850, el uso de gráficos comenzó a ser reconocido en algunos círculos oficiales para la planificación económica y estatal: ¿donde construir ferrocarriles y canales? ¿Cuál es la distribución de las importaciones y las exportaciones? Este uso de los métodos gráficos no estuvo mejor ilustrado que en las obras de Charles Joseph Minard [1781-1870], cuyas prodigiosas invenciones gráficas llevaron a Funkhouser (1937) a llamarlo el Playfair de Francia. Para ilustrar, se eligió (con cierta dificultad) un "tableau-gráfico" de 1844 (Figura 8) de Minard, un progenitor temprano del mosaico moderno. En la superficie, las parcelas de mosaico descienden de los gráficos de barras, pero Minard introdujo dos innovaciones simultáneas: el uso de barras divididas y de anchura proporcional para que el área tuviera una interpretación visual concreta. El gráfico muestra el transporte de mercancías comerciales a lo largo de una ruta de canal en Francia por barras divididas de anchura variable.
 
 En esta imagen la anchura de cada barra vertical muestra la distancia a lo largo de esta ruta; Los segmentos de barra divididos tienen una cantidad de bienes de varios tipos (mostrada por sombreado), de manera que el área de cada segmento rectangular es proporcional al coste de transporte.
 
-![Figura 8. Tableau Graphique de Minard, que muestra el transporte de mercancías comerciales a lo largo del Canal du Centre (Chalon-Dijon). Las paradas intermedias están espaciadas por la distancia, y cada barra está dividida por el tipo de mercancías, así que el área de cada azulejo representa el coste del transporte. Las flechas muestran la dirección del transporte.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Tableau.png)
+![Figura 8. Tableau Graphique de Minard, que muestra el transporte de mercancías comerciales a lo largo del Canal du Centre (Chalon-Dijon). Las paradas intermedias están espaciadas por la distancia, y cada barra está dividida por el tipo de mercancías, así que el área de cada azulejo representa el coste del transporte. Las flechas muestran la dirección del transporte.](imagenes/Tableau.png)
 
 ## 1850 - 1900: El era dorada de las gráficas estadísticas
 
@@ -74,19 +74,19 @@ A mediados del siglo XIX, se habían establecido todas las condiciones para el r
 
 Las escalas y las formas de gráficos y mapas también se transformaron para una variedad de propósitos, dando lugar a gráficos semi-logarítmicos para mostrar el cambio porcentual en las mercancías en el tiempo, gráficos log-log para mostrar relaciones multiplicativas, mapas anamórficos por E mile Cheysson, utilizando deformaciones de tamaño espacial para mostrar una variable cuantitativa (por ejemplo, la disminución en el tiempo para viajar de París a varios lugares en Francia más de 200 años) y diagramas de alineación o Nomogramas utilizando conjuntos de ejes paralelos. Se ilustra esta parte de la edad de oro con la figura 9, un gráfico de tour-de-force para la determinación de la desviación magnética en el mar en relación con la latitud y longitud sin cálculo ("L'Abaque Triomphe") por Charles Lallemand (1885), director General de la medición geodésica de altitudes en toda Francia, que combina muchas variables en un nomograma multifuncional, utilizando 3D, yuxtaposición de mapas anamórficos, coordenadas paralelas y cuadrículas hexagonales.
 
-![Figura 9. *L'abaque de bateau Le Triomphe* de Lallemand, que permite la determinación de la desviación magnética en el mar sin cálculo.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Nomograma.png)
+![Figura 9. *L'abaque de bateau Le Triomphe* de Lallemand, que permite la determinación de la desviación magnética en el mar sin cálculo.](imagenes/Nomograma.png)
 
 En 1859, Florence Nightingale usa estadísticas de víctimas de la guerra de Crimea para influenciar a la opinión pública y a la Oficina de Guerra. Ella muestra víctimas mes a mes en un gráfico circular diseñado por ella, la “rosa de Nightingale”, precursor del gráfico de torta. Ella es la primera mujer miembro de la Sociedad Real de Estadística y la primer miembro extranjera de la Asociación Americana de Estadística.
 
-![Figura 10. *"Rosa de Nightingale". Gráfico circular diseñado por Florence Nightingale](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/diagrama.jpg)
+![Figura 10. *"Rosa de Nightingale". Gráfico circular diseñado por Florence Nightingale](imagenes/diagrama.jpg)
 
 El descubrimiento gráfico no estadístico más notable de Francis Galton (1822-1911) fue el del modelo "anticiclónico" (en sentido contrario a las agujas del reloj) de vientos alrededor de regiones de baja presión, combinado con rotaciones en el sentido de las agujas del reloj alrededor de zonas de alta presión. El trabajo de Galton sobre patrones climáticos comenzó en 1861 y fue resumido en *Meteorographica* (1863). Contiene una variedad de ingeniosos gráficos y mapas (más de 600 ilustraciones en total), uno de los cuales se muestra en la Figura 10. Este notable gráfico, uno de una pantalla de dos páginas en forma de enrejado, muestra observaciones sobre la presión barométrica, dirección del viento, lluvia y temperatura a partir de 15 días en diciembre de 1861. Para cada día, la cuadrícula 3 × 3 muestra mapas esquemáticos de Europa, presión cartográfica (fila 1), viento y lluvia (fila 2) y temperatura (fila 3), por la mañana, tarde y noche (columnas). Se puede observar claramente la serie de áreas negras (baja presión) en las tablas barométricas durante la primera mitad del mes, correspondientes a las flechas en el sentido contrario a las agujas del reloj en las cartas de viento, seguido por un cambio a áreas rojas (alta presión ) y más flechas en el sentido de las agujas del reloj. 
 
-![Figura 11. Una página de la tabla de tiempo multivariante de Galton 1863 de Europa que muestra la presión barométrica, la dirección del viento, la lluvia, y la temperatura para el mes de diciembre de 1861.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Clima.png)
+![Figura 11. Una página de la tabla de tiempo multivariante de Galton 1863 de Europa que muestra la presión barométrica, la dirección del viento, la lluvia, y la temperatura para el mes de diciembre de 1861.](imagenes/Clima.png)
 
 El pináculo de este período de álbumes estadísticos patrocinados por el Estado es, sin duda, los *Albums de Statistique Graphique* publicados anualmente por el ministerio francés de obras públicas desde 1879-1897 bajo la dirección de E mile Cheysson.
 
-![Figura 12. *Mouvement des voyageurs et des marchandises dans les principales stations de chemin de fer en 1882*. Escala: 2mm2 = 10.000 pasajeros o toneladas de flete.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Europa.png)
+![Figura 12. *Mouvement des voyageurs et des marchandises dans les principales stations de chemin de fer en 1882*. Escala: 2mm2 = 10.000 pasajeros o toneladas de flete.](imagenes/Europa.png)
 
 
 1900 - 1950: El oscurantismo moderno
@@ -98,7 +98,7 @@ Hubo pocas innovaciones gráficas y, a mediados de la década de 1930, el entusi
 Sir Arthur Bowley representó el valor total de las exportaciones de Gran Bretaña e Irlanda entre 1855 y 1899. Se discutió si las exportaciones se habían vuelto estacionarias en los últimos años y la conclusión de Sir Robert Giffen (1899), basada exclusivamente en las tablas de promedios de cinco mencionó que "el único signo de estacionariedad es un aumento a un ritmo menor en los últimos períodos que en los períodos anteriores". Para responder a esto, representó los datos brutos, junto con las curvas de la media móvil en tres, cinco y diez años. Los promedios móviles de tres y cinco años muestran fuertes evidencias de un ciclo de aproximadamente 10 años, y señaló que "no puede sostenerse ningún argumento que no tenga en cuenta el ciclo del comercio, que no se elimina hasta que se adopten los promedios decenales". Para ello, tomó promedios de períodos sucesivos de 10 años a partir de 1859 y dibujó una curva a mano alzada "manteniéndose lo más cerca posible de los puntos, sin hacer cambios repentinos en la curvatura", dando la curva gruesa en la figura 12. La conclusión de Robert y la evidencia de un ciclo de 10 años debe mucho a este tratamiento gráfico.
 
 
-![Figura 13. La demostración de Arthur Bowley de los métodos de suavizar un gráfico de serie de tiempo. Los promedios móviles de tres, cinco y diez años se comparan con una curva a mano alzada trazada a través de cuatro puntos que representan los promedios de períodos sucesivos de diez años.](/Users/Martin/Google Drive/DNPE/Manejo de datos DNPE/Indicadores/Teoría de Indicadores/teoria-indicadores/imagenes/Serie.png)
+![Figura 13. La demostración de Arthur Bowley de los métodos de suavizar un gráfico de serie de tiempo. Los promedios móviles de tres, cinco y diez años se comparan con una curva a mano alzada trazada a través de cuatro puntos que representan los promedios de períodos sucesivos de diez años.](imagenes/Serie.png)
 
 ## 1950 - 1975: Renacimiento de la visualización de datos
 

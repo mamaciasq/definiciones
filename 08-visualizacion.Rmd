@@ -150,4 +150,4 @@ En los años noventa, varias de estas ideas fueron reunidas para proporcionar si
 
 # Línea de tiempo de la Estadística
 
-<img src="timeline-of-statistics.pdf">
+<img src="timeline-of-statistics.png">

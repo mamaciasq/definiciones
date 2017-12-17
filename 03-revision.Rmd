@@ -167,6 +167,44 @@ En el caso de los tipos de interés, una forma muy común pero ambigua de decir 
 
 En los mercados financieros, es común referirse a un aumento de un punto porcentual (por ejemplo, del $3\%$ anual al $4\%$ anual) como un aumento de "100 puntos básicos".
 
+## Censo
+
+En estudios estadísticos, es el caso especial de encuesta que consiste en observar cada miembro de una población con el fin de obtener de extraer de ellos la información de interés en las variables estudiadas para su posterior análisis e interpretación.
+
+Esta metodología presenta las siguientes características:
+
++ No precisa técnicas de inferencia estadística.
+
++ Los resultados obtenidos constituyen un marco muestral para estudios posteriores.
+
++ Favorece la realización de estudios en muestras estadísticas obtenidas de la población censual.
+
++ En general, son más costosos que los estudios muestrales, en todos los aspectos.
+
++ Acarrea procesos de planeación, organización y control más complejos.
+
++ Los resultados se obtienen a mediano y largo plazo, convirtiéndose en inoportunos y obsoletos.
+
+A pesar de presentar ciertas desventajas, cuando las circunstancias lo permitan (objetivos globales, poblaciones relativamente pequeñas y fácilmente identificables, suficientes recursos, etc.) deben utiizarse la metodología censual. [@sarndal2003model] y [@soto2009].
+
+## Encuesta 
+
+Cuando se habla de _encuesta_ o _encuesta muestral_, se definen las siguientes características metodológicas:
+
++ Una encuesta tiene asociado un conjunto de elementos denominado _población finita_. Existe una regla de enumeración que define inequívocamente los elementos que pertenecen a la población. El objetivo de una encuesta es proveer información sobre la población finita en cuestión o sobre subpolaciones de interés, por ejemplo, "hombres" y "mujeres" como dos subpoblaciones de la población "todas las personas". Tales subpoblaciones son llamados _dominios de estudio_ o, eimplemente, _dominios_.
+
++ El valor de una o más variables de estudio se asocia con cada elemento de población. El objetivo de un estudio es obtener información desconocida sobre _características de la población_ o _parámetros_. Los parámetros son funciones de los valores de las variables de estudio. Estos son medidas cuantitativas desconocidas de interés para el investigador, por ejemplo, ingresos totales, ingresos promedio, rendimiento total, número de desempleados, para la población entera o para dominios específicos.
+
++ En muchos estudios, acceder y observar elementos individuales de la población se establece a través de un _marco muestral_, un dispositivo que asocia los elementos de una población con las _unidades muestrales_ en el marco.
+
++ Una _muestra_ (es decir, un subconjunto) de elementos se selecciona de la población. Esto puede hacerse seleccionando unidades muestrales en el marco. 
+
++ Se _observan_ los elementos muestrales, es decir, para cada elemento en la muestra, se _miden_ las variables de estudio y se _registran_ sus valores. La medición está acorde con un plan de medición bien definido, especificado en términos de instrumentos de medición, una o más operaciones de medición, el orden entre ellos, y las condiciones bajo las cuales este procedimiento se lleva a cabo.
+
++ Los valores registrados de la variable se usan para calcular estimaciones (puntuales) de los parámetros de interés de la población finita (totales, promedios, medianas, razones, coeficientes de regresión, etc.). También se calculan las estimaciones de la precisión de las estimaciones. Finalemente, las estimaciones se publican.
+
+## Población 
+
 ## Odds ratio
 
 En los últimos años los odds ratios se han utilizado ampliamente en informes médicos casi con certeza algunos aparecerán en el BMJ de hoy. Hay tres razones para esto. En primer lugar, proporcionan una estimación (con intervalo de confianza) para la relación entre dos variables binarias ("sí o no"). En segundo lugar, nos permiten examinar los efectos de otras variables sobre esa relación, utilizando la regresión logística. En tercer lugar, tienen una interpretación especial y muy conveniente en los estudios de casos y controles (tratados en una nota futura).

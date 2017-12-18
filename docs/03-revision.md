@@ -205,6 +205,20 @@ Cuando se habla de _encuesta_ o _encuesta muestral_, se definen las siguientes c
 
 ## Población 
 
+El término población se usa tanto para identificar la colección de unidades finita e infinita que corresponde muchas veces a personas pero que pueden ser, por ejemplo, instituciones, eventos, etc. [@everitt2006cambridge] Una población se dice _finita_ si es posible contar sus individuos. El número de unidades en un población finita se denota por $N$, luego $N$ es el tamaño de la población. Una población _infinita_ es aquella en la cual no es posible contar sus unidades.
+
+Es necesario distinguir entre _población objetivo_ y _población marco_. La primera es el conjunto de elementos sobre la cual se busca establecer información y se quieren estimar parámetros. La _población marco_ es el conjunto de todos los elementos que bien pueden ser listados en el marco muestral o bien pueden identificarse a través de un concepto de marco más complejo, tal como un marco de selección en varias etapas (e.g. un marco muestral geográfico de una ciudad en donde se identifican barrios, manzanas, cuadras, casas, etc. para estudiar personas o familias).
+
+## Muestra: probabilística y no probabilística.
+
+Una muestra es cualquier subconjunto de la población que puede o no ser escogido mediante un mecanismo probabilístico. Una muestra obtenida gracias a un método en el cual cada individuo de una _población finita_ tiene una probabilidad conocida (no necesariamente igual) de ser incluida en la muestra. [@levy2013sampling]. El muestreo probabilístico ha probado ser, a través de los años, un instrumento bastante preciso. Un ejemplo de muestra no probabilística es aquella que se designa gracias al criterio de un experto que tenga el conocimiento sobre la representatividad de la población. En circunstancias muy afortunadas la selección no probabilística produce estimaciones precisas. [@sarndal2003model]
+
+## Serie de tiempo
+
+Una serie de tiempo puede definirse como los valores de una variable registrada, generalmente en un intervalo regular, durante un largo período de tiempo. El movimiento observado y las fluctuaciones de muchas de tales series se componen de cuatro componentes diferentes: tendencia secular, variación estacional, variación cíclica y variación irregular. Tales datos generalmente requieren métodos especiales para su análisis debido a la presencia de una correlación serial entre las observaciones separadas. [@everitt2006cambridge]
+
+
+
 ## Odds ratio
 
 En los últimos años los odds ratios se han utilizado ampliamente en informes médicos casi con certeza algunos aparecerán en el BMJ de hoy. Hay tres razones para esto. En primer lugar, proporcionan una estimación (con intervalo de confianza) para la relación entre dos variables binarias ("sí o no"). En segundo lugar, nos permiten examinar los efectos de otras variables sobre esa relación, utilizando la regresión logística. En tercer lugar, tienen una interpretación especial y muy conveniente en los estudios de casos y controles (tratados en una nota futura).

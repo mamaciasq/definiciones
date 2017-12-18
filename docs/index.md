@@ -1,7 +1,7 @@
 --- 
 title: "Teoría de indicadores"
 author: "Dirección Nacional de Planeación y Estadística"
-date: "2017-12-17"
+date: "2017-12-18"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib, referencias.bib]
